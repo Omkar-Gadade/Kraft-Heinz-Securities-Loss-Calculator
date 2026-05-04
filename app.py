@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("📊 Securities Loss Calculator")
+st.title("📊 Kraft-Heinz Securities Loss Calculator")
 
 uploaded_file = st.file_uploader("Upload Excel file", type=["xlsx"])
 
